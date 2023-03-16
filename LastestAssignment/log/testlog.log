@@ -1,0 +1,19 @@
+2023-03-15 17:36:27,909 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 111.0.5563.64 (since Google Chrome 111 is installed in your machine)
+2023-03-15 17:36:27,930 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/eshaklein/.m2/repository/webdriver/chromedriver/mac64/111.0.5563.64/chromedriver
+2023-03-15 17:36:34,836 - ui_automation.step_definitions.mbExpensesSteps -INFO - Successfully navigates to MB Login Page: https://dev-mb.yoll.io/Account/Login
+2023-03-15 17:37:27,659 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 111.0.5563.64 (since Google Chrome 111 is installed in your machine)
+2023-03-15 17:37:27,674 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/eshaklein/.m2/repository/webdriver/chromedriver/mac64/111.0.5563.64/chromedriver
+2023-03-15 17:38:37,919 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 111.0.5563.64 (since Google Chrome 111 is installed in your machine)
+2023-03-15 17:38:37,935 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/eshaklein/.m2/repository/webdriver/chromedriver/mac64/111.0.5563.64/chromedriver
+2023-03-15 17:39:44,968 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 111.0.5563.64 (since Google Chrome 111 is installed in your machine)
+2023-03-15 17:39:44,992 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/eshaklein/.m2/repository/webdriver/chromedriver/mac64/111.0.5563.64/chromedriver
+2023-03-15 17:43:37,905 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 111.0.5563.64 (since Google Chrome 111 is installed in your machine)
+2023-03-15 17:43:37,928 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/eshaklein/.m2/repository/webdriver/chromedriver/mac64/111.0.5563.64/chromedriver
+2023-03-15 19:35:47,651 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 111.0.5563.64 (since Google Chrome 111 is installed in your machine)
+2023-03-15 19:35:47,673 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/eshaklein/.m2/repository/webdriver/chromedriver/mac64/111.0.5563.64/chromedriver
+2023-03-15 19:59:10,569 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 111.0.5563.64 (since Google Chrome 111 is installed in your machine)
+2023-03-15 19:59:10,593 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/eshaklein/.m2/repository/webdriver/chromedriver/mac64/111.0.5563.64/chromedriver
+2023-03-15 20:21:22,707 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 111.0.5563.64 (since Google Chrome 111 is installed in your machine)
+2023-03-15 20:21:22,728 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/eshaklein/.m2/repository/webdriver/chromedriver/mac64/111.0.5563.64/chromedriver
+2023-03-15 20:22:41,075 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 111.0.5563.64 (since Google Chrome 111 is installed in your machine)
+2023-03-15 20:22:41,092 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/eshaklein/.m2/repository/webdriver/chromedriver/mac64/111.0.5563.64/chromedriver
